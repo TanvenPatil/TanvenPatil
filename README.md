@@ -12,8 +12,6 @@
 
 ## 📊 GitHub Stats :
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=TanvenPatil&theme=dark&hide_border=false&include_all_commits=false&count_private=false"
-       width="500" height="220">
   <img src="https://streak-stats.demolab.com/?user=TanvenPatil&theme=dark&hide_border=false&card_width=500&card_height=220"
        width="500" height="220">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=TanvenPatil&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&card_width=500"
