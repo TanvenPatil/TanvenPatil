@@ -1,4 +1,4 @@
-# 🌱 About Me
+#  About Me
 🎓 B.E. in Artificial Intelligence & Machine Learning (AIML)<br>🧑‍💻 Engineering enthusiast passionate about technology, problem-solving, and data-driven solutions.<br>🎮 Valorant enthusiast who loves gaming in my free time.
 
 
